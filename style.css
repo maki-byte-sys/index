@@ -270,7 +270,6 @@ h2 {
   box-shadow: 0 15px 30px rgba(255, 77, 77, 0.4);
 }
 
-/* Footer Section */
 .site-footer {
   background-color: #111;
   color: #fff;
@@ -313,7 +312,6 @@ h2 {
   margin-top: 15px;
 }
 
-/* Responsive */
 @media (max-width: 1024px) {
   .dest-card { width: 45%; }
   .about-section .about-images img { width: 100%; }
@@ -329,3 +327,4 @@ h2 {
   .hero-content p { font-size: 0.9rem; }
   .getthere-card { max-width: 100%; flex: 1 1 100%; }
 }
+
